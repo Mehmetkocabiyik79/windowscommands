@@ -1,5 +1,7 @@
 # WINDOWS KOMUTLARI
-![GÖRSEL](/WİN.png)
+![GÖRSEL](/win%20resim/WİN.png)
+
+
 - ###  Windows, Microsoft tarafından geliştirilen bir işletim sistemidir ve dünya genelinde en yaygın kullanılan işletim sistemlerinden biridir. İlk kez 1985 yılında tanıtılan Windows, kullanıcı dostu grafiksel arayüzü ile kişisel bilgisayarlarda büyük bir devrim yapmıştır. 
 - ###  Dosya yönetimi, çoklu görev çalıştırma, geniş yazılım desteği ve güvenlik özellikleri gibi temel işlevlerle birlikte gelir. Günümüzde Windows 11 gibi modern sürümleri, dokunmatik ekran desteği, bulut entegrasyonu ve oyun performansı gibi yenilikçi özellikler sunarak kullanıcı deneyimini daha da ileri taşımaktadır. Özellikle bireysel kullanıcılar, işletmeler ve eğitim kurumları tarafından tercih edilen Windows, iş, eğlence ve yaratıcılık için çok yönlü bir platform sağlar.
 ## Dosya ve Klasör İşlemleri
